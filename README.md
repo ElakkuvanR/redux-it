@@ -1,16 +1,7 @@
-# Simple Food Order App with React
+# Redux
 
-## How to set this up in local ?
+A general Redux flow looks like this
 
-* Clone the repository in your local 
-* Run npm install and npm start
-
-
-#### Note
-
-* This is a sample POC
-* I will be keep adding improvement on top of it 
-
-
+![Redux](docs/img/reducer_general.png?raw=true "Redux")
 
 ## Happy Coding....!!!
